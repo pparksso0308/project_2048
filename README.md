@@ -50,3 +50,5 @@ Contributions are very welcome. Always run the tests before committing using:
 $ ./2048 test
 All 13 tests executed successfully
 ```
+
+실습용
